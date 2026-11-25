@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" role="img" aria-label="Pilha de livros"><title>Pilha de livros</title>
+<g stroke="#131210" stroke-width="4" stroke-linejoin="round">
+<rect x="40" y="100" width="120" height="30" rx="3" fill="#131210"/>
+<rect x="52" y="70" width="100" height="30" rx="3" fill="#DD633E"/>
+<rect x="34" y="40" width="110" height="30" rx="3" fill="#C98B55"/>
+</g>
+<path d="M20 134H180" stroke="#131210" stroke-width="5" stroke-linecap="round"/>
+<path d="M50 85H70M44 55H64" stroke="#131210" stroke-width="3" stroke-linecap="round"/>
+</svg>

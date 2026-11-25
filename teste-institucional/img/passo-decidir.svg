@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" role="img" aria-label="Lista com uma opção marcada"><title>Lista com uma opção marcada</title>
+<rect x="50" y="14" width="100" height="132" rx="8" fill="#FBF7EE" stroke="#131210" stroke-width="4"/>
+<g stroke="#131210" stroke-width="3">
+<circle cx="74" cy="46" r="8" fill="#FBF7EE"/>
+<circle cx="74" cy="80" r="8" fill="#DD633E"/>
+<circle cx="74" cy="114" r="8" fill="#FBF7EE"/>
+</g>
+<path d="M92 46H134M92 80H134M92 114H134" stroke="#131210" stroke-width="4" stroke-linecap="round"/>
+</svg>

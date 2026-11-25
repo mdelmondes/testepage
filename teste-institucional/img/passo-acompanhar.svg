@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" role="img" aria-label="Relógio"><title>Relógio</title>
+<circle cx="100" cy="86" r="56" fill="#FBF7EE" stroke="#131210" stroke-width="4"/>
+<path d="M100 86V50M100 86l24 14" stroke="#131210" stroke-width="5" stroke-linecap="round" fill="none"/>
+<circle cx="100" cy="86" r="6" fill="#DD633E" stroke="#131210" stroke-width="3"/>
+<path d="M62 34L52 24M138 34L148 24" stroke="#131210" stroke-width="5" stroke-linecap="round"/>
+</svg>

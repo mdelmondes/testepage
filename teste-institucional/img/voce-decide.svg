@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" role="img" aria-label="Mesa com livro aberto, planta e janela"><title>Mesa com livro aberto, planta e janela</title>
+<rect width="520" height="320" fill="#F4EEE2"/>
+<rect y="200" width="520" height="120" fill="#E9D9BC"/>
+<path d="M0 200H520" stroke="#131210" stroke-width="4"/>
+<g stroke="#131210" stroke-width="4" stroke-linejoin="round">
+<rect x="60" y="30" width="120" height="120" rx="3" fill="#FBF7EE"/><path d="M120 30V150M60 90H180" fill="none"/>
+<circle cx="420" cy="80" r="22" fill="#DD633E"/>
+<rect x="110" y="236" width="360" height="16" rx="3" fill="#C98B55"/>
+<rect x="124" y="252" width="332" height="68" fill="#A86C3E"/>
+<path d="M170 236V190q40-14 80 0 40-14 80 0v46z" fill="#FBF7EE"/>
+<path d="M360 236c-18-14-22-30-16-44 14 8 20 24 16 44zM360 236c10-16 24-24 38-24-2 16-14 26-38 24z" fill="#8DA06A"/>
+<path d="M344 236h36l-5 24h-26z" fill="#DD633E"/>
+</g>
+<path d="M250 190V236M186 206q30-8 56 0M258 206q30-8 56 0" stroke="#131210" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
